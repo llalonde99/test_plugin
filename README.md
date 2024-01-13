@@ -1,2 +1,5 @@
-# Example
-An example greeter plugin
+# Boss Health
+
+---
+
+Big health bars for improved visibility on in-game bosses.
